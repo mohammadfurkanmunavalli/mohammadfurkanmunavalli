@@ -14,9 +14,9 @@ From designing responsive frontends to implementing secure backend systems, I en
 ### 🛠️ Technologies & Tools
 
 - **Languages:** C, C++, JavaScript, Java  
-- **Frontend:** HTML, CSS, React.js  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code, Postman  
+- **Frontend:** HTML5, CSS3
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, Docker, Github Actions 
 
 ---
 
