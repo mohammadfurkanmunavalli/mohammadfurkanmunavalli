@@ -28,7 +28,7 @@ Secure, tamper-proof legal evidence management using Solidity, IPFS, and React.
 
 🔹 **Smart Attendance System (Face Recognition)**  
 Face recognition attendance system using Python, OpenCV, and machine learning.  
-[View Repository](#)
+[View Repository](https://github.com/mohammadfurkanmunavalli/Smart-Attendance-System.git)
 
 🔹 **QuickBilling Website**  
 A full-stack billing platform with invoicing, analytics, and payment tracking.  
