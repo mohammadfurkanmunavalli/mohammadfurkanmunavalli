@@ -13,7 +13,7 @@ From designing responsive frontends to implementing secure backend systems, I en
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** C, C++, JavaScript, Java  
+- **Languages:** C, C++, JavaScript, Java(core)
 - **Frontend:** HTML5, CSS3
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, Docker, Github Actions 
@@ -24,7 +24,7 @@ From designing responsive frontends to implementing secure backend systems, I en
 
 🔹 **Evidence Management System (Blockchain)**  
 Secure, tamper-proof legal evidence management using Solidity, IPFS, and React.  
-[View Repository](#)
+[View Repository](https://github.com/mohammadfurkanmunavalli/Evidence-Management-System-using-Blockchain-Technology.git)
 
 🔹 **Smart Attendance System (Face Recognition)**  
 Face recognition attendance system using Python, OpenCV, and machine learning.  
